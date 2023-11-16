@@ -41,6 +41,7 @@
 
 ![Снимок39](https://github.com/Makarov-Denis/zabbix-hw2/assets/148921246/cf08a838-3bd0-4e1a-a7ba-6bfd4dd27992)
 
+---
 
 ### Задание 2
 
