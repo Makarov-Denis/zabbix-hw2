@@ -94,4 +94,6 @@
 
 Скриншот дашборда с названием «Задание 4»
 
+![Снимок41](https://github.com/Makarov-Denis/zabbix-hw2/assets/148921246/0a99c275-ef0c-4464-bf6d-5bf638465970)
+
 ---
