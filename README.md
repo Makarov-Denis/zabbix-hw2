@@ -78,7 +78,7 @@
 
 ![Снимок40](https://github.com/Makarov-Denis/zabbix-hw2/assets/148921246/621688bb-74d7-468a-8adc-c660d0493aca)
 
-```
+---
 
 ### Задание 4
 
